@@ -12,7 +12,7 @@ Installation:
 * from PyPI via PIP:
   * TBD
 * from source via PIP:
-  * `pip install git+https://github.com/brodderickrodriguez/pso_hyper_tune.git`
+  * `pip install git+https://github.com/brodderickrodriguez/hypertune.git`
 
 
 Acknowledgements:
