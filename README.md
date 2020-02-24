@@ -3,7 +3,7 @@ A package to tune ML hyperparameters efficiently using Particle Swarm Optimizati
 
 Please see `./examples` for examples on how to use this package with your existing implementation.
 
-Documentation about this repository can be found [(here)](http://brodderick.com/projects/hypertune).
+Documentation about this repository can be found [here](http://brodderick.com/projects/hypertune).
 
 Requires:
 * `Python>=3` (built using v3.7.4)
